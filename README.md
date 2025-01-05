@@ -25,7 +25,7 @@ Dépôt légal : 2e trimestre 2012 ISBN 978-2-553-01634-9 (version imprimée)
 Bibliothèque et Archives nationales du Québec ISBN 978-2-553-01639-4 (version pdf)
 Bibliothèque et Archives Canada Imprimé au Canada
 
-Fait Par Mohamed Hamdani 
+# Fait Par Mohamed Hamdani 
 
 # Res : 
 
