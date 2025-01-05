@@ -1,6 +1,4 @@
-# Hydrology_tools 
-
-Méthode du renouvellement
+# Méthode du renouvellement
 
 Pour Site où le régime d’écoulement est naturel ou influencé journellement et sur lequel il existe des données hydrométriques en petit nombre (N < 20 ans)
 Une méthode alternative existe lorsque la série qui constitue l’échantillon est trop courte. La méthode du renouvellement permet d’utiliser de courtes séries de données. Au lieu de ne retenir que le maximum annuel, on détermine un débit-seuil au-delà duquel toutes les pointes de crues indépendantes sont considérées pour l’analyse. Pour plus de détails sur cette méthode, voir la section 8.2, « Annualisation des séries infra-annuelles, de Meylan et collab. (2008), et la section 7.7.1, « Méthode du renouvellement », d’Anctil, Rousselle et Lauzon (2005).
