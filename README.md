@@ -36,6 +36,11 @@ Res :
 ![image](https://github.com/user-attachments/assets/df47bfb4-4d77-4674-9090-6bdb2d292bb3)
 ![image](https://github.com/user-attachments/assets/36905575-e7a9-4847-a284-c60c6a1a197a)
 
+IMPORTANT : HOW TO SET THE DATA IN EXCEL FILE 
+ORDRE CHRONOLOGIQUE (DATE , H , Debit) 
+![image](https://github.com/user-attachments/assets/ba3cc393-28e0-45d9-b38b-68e32b56e44a)
+
+
 
 
 
